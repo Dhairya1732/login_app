@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232358265574",
+    "project_id": "login-app-1bacb",
+    "storage_bucket": "login-app-1bacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232358265574:android:170cc20335c0d17dfef127",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5U49iiV_eHP6ujK51_NA8-Fdwy8UTEU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
